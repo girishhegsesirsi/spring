@@ -1,0 +1,6 @@
+com\spring\databinding\bean\Address.class
+com\spring\databinding\controller\AdmissionController.class
+com\spring\databinding\controller\DBDemoController.class
+com\spring\databinding\bean\Emp.class
+com\spring\databinding\editor\StudentNameEditor.class
+com\spring\databinding\bean\Student.class
